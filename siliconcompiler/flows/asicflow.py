@@ -58,7 +58,7 @@ def setup(flowname='asicflow',
     * **place**: Global and detailed placement
     * **cts**: Clock tree synthesis
     * **route**: Global and detailed routing
-    * **dfm**: Metal fill, atenna fixes and any other post routing steps
+    * **dfm**: Metal fill, antenna fixes and any other post routing steps
     * **export**: Export design from APR tool and merge with library GDS
     * **sta**: Static timing analysis (signoff)
     * **lvs**: Layout versus schematic check (signoff)
